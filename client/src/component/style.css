@@ -1,0 +1,21 @@
+.other-chat {
+  float: right;
+}
+
+.my-chat {
+  float: left;
+}
+
+.card-chat-height {
+  overflow-x: hidden;
+  height: 70vh;
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden !important;
+}
+
+.width-chat {
+  max-width: 300px;
+  min-width: 100px;
+}
